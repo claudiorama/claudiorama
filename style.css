@@ -1,0 +1,377 @@
+.txt {
+  text-align: center;
+
+}
+
+
+
+
+
+body {
+  background-color:bisque;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #673939;
+  font-size: 1.3rem;
+  line-height: 1.5em;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2rem;
+  line-height: 1em;
+  
+
+}
+
+
+  
+  
+  
+  
+   
+   
+   
+  
+  
+   
+
+
+
+   
+   
+   
+  
+
+
+p {
+  margin-bottom: 1.6em;
+}
+
+
+.container {
+  width: 70%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.fa-solid  {
+  align-items: center;
+  
+
+}
+
+header i{
+  font-size: 100px;
+  height: 50px;
+  align-items: left;
+
+  
+  
+
+}
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: red;
+  text-decoration: underline;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+p {
+  color: #4a4a4a;
+  font-weight: bold;
+}
+h2{
+  font-family: 'Merriweather', serif;
+  font-size: 40px;
+}
+img {
+  width: 400px;
+}
+.gatos {
+  width: 100%;
+  
+
+  
+  
+  
+  
+}
+.bordes-redondeados {
+  border-radius: 7px;
+  
+}
+div {
+  background-color:silver
+}
+.contenedor-listas {
+  background-color:silver;
+  text-align: justify;
+}
+#titulo-app-gatos {
+  font-size: 30px;
+  color: red;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+div {
+  background-color: #b69191;
+}
+
+img {
+  padding: 20px 20px 20px 20px;
+  background-color: #fff; ;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  
+}
+
+
+
+
+
+
+
+#contenedor-principal {
+  color: #333;
+  padding: 10px;
+  font-size: 10px;
+  background-color: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  
+}
+
+
+
+
+
+
+
+
+.header {
+  background: #333;
+  color: white;
+  padding: 2rem 0;
+
+  
+}
+
+  .header a {
+    color:white;
+    text-decoration: none;
+    
+    
+    
+    
+    
+    
+  }
+
+  .logo-nav-container {
+    display: flex;
+    justify-content:space-between;
+  
+  }
+    .logo {
+      align-items:left;
+ 
+  
+}
+
+
+
+
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+} 
+  .navigation ul li {
+    display: inline-block;
+    align-items:left ;
+    
+  }
+
+    .navigation ul li a {
+      display: block;
+      padding: 0.5rem 1rem;
+      transition:all 0.4s linear;
+      border-radius: 5px;
+    }
+       
+      .navigation ul li a:hover {
+        background: #2e2525;
+      }
+
+footer p {
+  background: #222121;
+  padding: 1rem 0;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+@media only screem and (max-width: 768px) {
+  
+  
+  
+  .navigation {
+    width: 100%;
+    margin-top: 1rem;
+
+  }
+   
+    .navigation ul li {
+      display: block;
+    }
+  
+      .navigation ul li a {
+        display: block;
+        padding: 0.5rem 0rem;
+        transition: all 0,4s linear;
+        border-radius: 5px;
+      }
+         
+        .navigation ul li a:hover {
+          background: whitesmoke;
+        }
+
+
+}
+
+nav {
+  background-color: #dc9696;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  display: inline-block;
+  color: black;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: burlywood;
+}
+
+section#contacto {
+  background-color: chocolate;
+  padding: 25px;
+}
+
+section#contacto h2 {
+  color: white;
+}
+
+section#contacto form {
+  margin-top: 5px;
+}
+
+section#contacto form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+section#contacto form input[type="text"],
+section#contacto form input[type="email"],
+section#contacto form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+section#contacto form input[type="submit"] {
+  background-color: #966464;
+  color: #fff;
+  padding: 10px;
+
+}
+
+.container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.container iframe {
+  width: 400px; 
+  height: 200px;
+}
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
